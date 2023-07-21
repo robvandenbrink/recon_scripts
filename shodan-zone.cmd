@@ -1,0 +1,1 @@
+curl -s -k "https://api.shodan.io/dns/domain/%1?key=%shodan-api-key%" | jq | less
