@@ -11,3 +11,9 @@ https://isc.sans.edu/diary/DNS+Recon+Redux+Zone+Transfers+plus+a+time+machine+fo
 
 Using Passive DNS sources for Reconnaissance and Enumeration
 https://isc.sans.edu/diary/Using+Passive+DNS+sources+for+Reconnaissance+and+Enumeration/28596
+
+Shodan API in an NMAP NSE Script (which is bundled with NMAP)
+https://isc.sans.edu/diary/30944
+
+IPINFO script implemented as an NMAP NSE script
+https://isc.sans.edu/diary/30948
