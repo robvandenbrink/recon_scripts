@@ -1,1 +1,2 @@
-curl -s -k "https://api.shodan.io/shodan/host/%1?key=%shodan-api-key%" | jq 
+@echo off
+curl -s -k GET "https://api.shodan.io/shodan/host/%1?key=%APIKEY_SHODAN%" | jq
