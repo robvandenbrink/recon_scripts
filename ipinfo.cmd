@@ -1,2 +1,2 @@
-curl ipinfo.io/%1?token=%ipinfo-api-key%
-
+@echo off
+curl -s ipinfo.io/%1?token=%APIKEY_IPINFO%
